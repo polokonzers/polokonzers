@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @polokonzers
 - 👀 I’m interested in space exploration, aviation, cartography, old photos and ambient music
-- 🌱 I’m currently learning algorithms and data structures
 - 💞️ I’m looking for an internship in backend development mid 2023
 - 📫 How to reach me: polokonzers@yahoo.com
 

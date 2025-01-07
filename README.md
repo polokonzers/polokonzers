@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @polokonzers
 - 👀 I’m interested in space exploration, aviation, cartography, old photos and ambient music
-- 🗺🧮 Currently expanding my horizons in geoinformation web-services and corporate financial web-services.
+- 🗺🧮 Currently expanding my horizons in corporate financial web-services and smart devices.
 - 📫 How to reach me: polokonzers@yahoo.com
 
 <!---
